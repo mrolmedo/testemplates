@@ -8,7 +8,7 @@ entries:
     created: "2022-02-25T15:54:51.604663-08:00"
     description: Cluster template for rke2
     digest: d372363c814ac79e7d1f4b877e9b47ec39eaf3fde5a70137a0074dfa70e3dd2c
-    name: cluster-template
+    name: cluster-template-molmedo-custom
     urls:
     - cluster-template-0.0.1.tgz
     version: 0.0.1
